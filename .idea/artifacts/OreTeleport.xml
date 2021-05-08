@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OreTeleport">
+    <output-path>$PROJECT_DIR$/out/artifacts/OreTeleport</output-path>
+    <root id="archive" name="OreTeleport.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="矿物传送" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+    </root>
+  </artifact>
+</component>

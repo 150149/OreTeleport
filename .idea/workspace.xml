@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OreTeleport" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6547ab9d-d2ab-4784-b24c-4e9169456dc4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aiMsuQ2b32q9HNyrM4k6rFYKP5" />
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="矿物传送" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/Minecraft/服务端/2020.7.4-/spigot-1.16.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6547ab9d-d2ab-4784-b24c-4e9169456dc4" name="Default Changelist" comment="" />
+      <created>1587214170679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587214170679</updated>
+      <workItem from="1587214174539" duration="5471000" />
+      <workItem from="1587274738560" duration="12445000" />
+      <workItem from="1587348831233" duration="653000" />
+      <workItem from="1587477573981" duration="241000" />
+      <workItem from="1587732281700" duration="138000" />
+      <workItem from="1587802802920" duration="14896000" />
+      <workItem from="1587867621165" duration="12760000" />
+      <workItem from="1587890788620" duration="1261000" />
+      <workItem from="1587893856313" duration="1007000" />
+      <workItem from="1588581842240" duration="4008000" />
+      <workItem from="1592488213005" duration="2449000" />
+      <workItem from="1592536731868" duration="3691000" />
+      <workItem from="1594876638149" duration="1735000" />
+      <workItem from="1594897239254" duration="45000" />
+      <workItem from="1594903411341" duration="694000" />
+      <workItem from="1594905019345" duration="19000" />
+      <workItem from="1594905041191" duration="1000" />
+      <workItem from="1594908773253" duration="1238000" />
+      <workItem from="1594976862908" duration="2394000" />
+      <workItem from="1595065698539" duration="4000" />
+      <workItem from="1596617056137" duration="1213000" />
+      <workItem from="1597379150140" duration="151000" />
+      <workItem from="1597817009055" duration="1255000" />
+      <workItem from="1597820331658" duration="15000" />
+      <workItem from="1598425211020" duration="1933000" />
+      <workItem from="1611064335080" duration="382000" />
+      <workItem from="1612276368057" duration="4679000" />
+      <workItem from="1612327974172" duration="773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
